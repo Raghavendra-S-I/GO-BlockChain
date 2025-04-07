@@ -11,3 +11,5 @@ Block can have majority of the information
 PrevHash--> Position --> data--> Timestamp --> PrevHash
 (Prev hash is hash of the previous block chain) 
 
+And also in blockchain we are not using any database because the blockchain itself will be 
+used/acting as a database here.
